@@ -1,0 +1,112 @@
+[
+    {
+        "name": "The Grand Mosque",
+        "description": "The Sultan Qaboos Grand Mosque is the largest mosque in Oman, located in the capital city of Muscat",
+        "imgsrc": "https://github.com/OKTAIO/jabreendata/blob/main/main-grand-mosque-muscat.jpg?raw=true"
+    },
+    {
+        "name": "The Royal Opera House",
+        "description": "Royal Opera House Muscat is the leading arts and culture organization in the Sultanate of Oman. Located in Muscat",
+        "imgsrc": "https://github.com/OKTAIO/jabreendata/blob/main/Royal-Opera-House-Muscat.jpg?raw=true"
+    },
+    {
+        "name": "Jabel-Sifah",
+        "description": "Jebel Sifah is designed with wide open spaces and healthy outdoor living in mind. With an array of freehold",
+        "imgsrc": "https://github.com/OKTAIO/jabreendata/blob/main/Jebel-Sifah.jpg?raw=true"
+    },
+    {
+        "name": "Mutrah Souq",
+        "description": "The souq is a huge and extremely busy bazaar with shops that appear to be carved out of a labyrinth of caves. Many of the shops are selling similar products so",
+        "imgsrc": "https://github.com/OKTAIO/jabreendata/blob/main/mutrah.png?raw=true"
+    },
+    {
+        "name": "Al-Jalali Castle ",
+        "description": "Al Jalali Fort is located in Old Muscat at an altitude of 45 meters above sea level, overlooking the Sea of ​​Oman",
+        "imgsrc": "https://github.com/OKTAIO/jabreendata/blob/main/aljalali.jpg?raw=true"
+    },
+   {
+        "name":"Majlis al Jinn",
+        "imgsrc":"https://github.com/OKTAIO/jabreendata/blob/main/mijlisaljin.jpg?raw=true"
+    },
+    {
+        "name":"Al Ashkharah",
+        "imgsrc":"https://github.com/OKTAIO/jabreendata/blob/main/ashara.jpeg?raw=true"
+    },
+    {
+        "name":"aljabal alakhdar",
+        "imgsrc":"https://github.com/OKTAIO/jabreendata/blob/main/greenmountain.jpeg?raw=true"
+    },
+    {
+        "name":"jabal shams ",
+        "imgsrc":"https://github.com/OKTAIO/jabreendata/blob/main/jabalshams.jpeg?raw=true"
+    },
+    {
+        "name":"alhazm Castle",
+        "imgsrc":"https://github.com/OKTAIO/jabreendata/blob/main/alhazam.jpeg?raw=true"
+    },
+    {
+        "name":"AlSuwjara Village",
+        "imgsrc":"https://github.com/OKTAIO/jabreendata/blob/main/sugrs.jpeg?raw=true"
+    },
+    {
+        "name":"Nizwa Souq",
+        "imgsrc":"https://github.com/OKTAIO/jabreendata/blob/main/nizwa.jpeg?raw=true"
+    }, {
+        "name":"Sur",
+        "imgsrc":"https://github.com/OKTAIO/jabreendata/blob/main/sur.jpeg?raw=true"
+    },
+    {
+        "name":" village of Bilad Sayt",
+        "imgsrc":"https://github.com/OKTAIO/jabreendata/blob/main/seatV.jpeg?raw=true"
+    },
+    {
+        "name":"Al-Rustaq Castle ",
+        "imgsrc":"https://github.com/OKTAIO/jabreendata/blob/main/alrustaq.jpeg?raw=true"
+    },
+    {
+        "name":"Bahla Castle ",
+        "imgsrc":"https://github.com/OKTAIO/jabreendata/blob/main/bahla.jpeg?raw=true"
+    },
+    {
+        "name":"Al Hoota Cave",
+        "imgsrc":"https://github.com/OKTAIO/jabreendata/blob/main/cave.jpeg?raw=true"
+    },
+    {
+        "name":"Oman Across Ages Museum",
+        "imgsrc":"https://github.com/OKTAIO/jabreendata/blob/main/resume.jpeg?raw=true"
+    },
+    {
+        "name":"Masirah Island",
+        "imgsrc":"https://github.com/OKTAIO/jabreendata/blob/main/musira.jpeg?raw=true"
+    },
+    {
+        "name":"Ad Dimaniyat Islands",
+        "imgsrc":"https://github.com/OKTAIO/jabreendata/blob/main/Daymaniyat-Island.jpg?raw=true"
+    },
+    {
+        "name":"Khuriya Muriya Islands",
+        "imgsrc":"https://github.com/OKTAIO/jabreendata/blob/main/halaniat.jpg?raw=true"
+    },
+    {
+        "name":"Al Mouj Muscat",
+        "imgsrc":"https://github.com/OKTAIO/jabreendata/blob/main/almouj.jpg?raw=true"
+    },
+    
+    {
+        "name":"Ras Al Jinz Turtle Reserve",
+        "imgsrc":"https://github.com/OKTAIO/jabreendata/blob/main/aljinz.jpg?raw=true"
+    },
+    {
+        "name":"Salalah",
+        "imgsrc":"https://github.com/OKTAIO/jabreendata/blob/main/salalah1.jpg?raw=true"
+    },
+    {
+        "name":"Wahiba Sands Desert",
+        "imgsrc":"https://github.com/OKTAIO/jabreendata/blob/main/wahiba-sands.jpg?raw=true"
+    },
+    {
+        "name":"Musandam",
+        "imgsrc":"https://github.com/OKTAIO/jabreendata/blob/main/musandam-coast.jpg?raw=true"
+    }
+
+]
