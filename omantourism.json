@@ -3,13 +3,17 @@
         "name": "The Grand Mosque",
         "description": "The Sultan Qaboos Grand Mosque is the largest mosque in Oman, located in the capital city of Muscat",
         "imgsrc": "https://github.com/OKTAIO/jabreendata/blob/main/main-grand-mosque-muscat.jpg?raw=true",
-        "mapLink": "https://www.google.com/maps?q=Sultan+Qaboos+Grand+Mosque+Muscat"
+        "mapLink": "https://www.google.com/maps?q=Sultan+Qaboos+Grand+Mosque+Muscat",
+        "latitude": 23.5838077,
+        "longitude": 58.3860938
     },
     {
         "name": "The Royal Opera House",
         "description": "Royal Opera House Muscat is the leading arts and culture organization in the Sultanate of Oman. Located in Muscat",
         "imgsrc": "https://github.com/OKTAIO/jabreendata/blob/main/Royal-Opera-House-Muscat.jpg?raw=true",
-        "mapLink": "https://www.google.com/maps?q=Sultan+Qaboos+Grand+Mosque+Muscat"
+        "mapLink": "https://www.google.com/maps?q=Sultan+Qaboos+Grand+Mosque+Muscat",
+        "latitude": 23.5838077,
+        "longitude": 58.3860938
     },
     {
         "name": "Jabel-Sifah",
